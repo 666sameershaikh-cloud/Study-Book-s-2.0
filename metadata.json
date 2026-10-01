@@ -1,0 +1,6 @@
+{
+  "name": "World Books",
+  "description": "World Books - Premium study platform with comprehensive library, notes, and secure private chat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
